@@ -1,6 +1,6 @@
 # Amisha Mehta · Amisha-Mehta
 
-[![Website](https://img.shields.io/badge/website-visit-blue)](https://github.com/Amisha-Mehta/PORTFOLIO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2)](https://www.linkedin.com/) [![Email](https://img.shields.io/badge/Email-hello%40example.com-D14836)](mailto:hello@example.com)
+[![Website](https://img.shields.io/badge/website-visit-blue)](https://amishamehta.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2)](https://www.linkedin.com/) [![Email](https://img.shields.io/badge/Email-hello%40example.com-D14836)](https://amishamehta.netlify.app/#contact)
 
 Hi, I’m **Amisha Mehta** — a student / developer who builds data analyses, web apps, and ML projects. I work on projects spanning data science, web development, and AI-powered tools.
 
