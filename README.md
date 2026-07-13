@@ -53,7 +53,7 @@ Hi, I’m **Amisha Mehta** — a student / developer who builds data analyses, w
 ---
 
 ## 📫 Contact
-- Email: hello@example.com
+- Email: amishamehta548@gmail.com
 - Portfolio: https://github.com/Amisha-Mehta/PORTFOLIO
 - GitHub: https://github.com/Amisha-Mehta
 
